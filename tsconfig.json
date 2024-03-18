@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true,
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
+    "paths": {
+      "@/*": ["./*"]
+    }
+  },
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "app/components/Billing.jsx", "app/components/Services.jsx", "app/components/Button.jsx", "app/components/ContactUs.jsx", "app/components/Clients.jsx", "app/components/FeedbackCard.jsx", "app/components/Footer.jsx", "app/components/Hero.jsx", "app/components/index.js", "app/components/Navbar.jsx", "app/components/Team.jsx", "app/constants/index.js", "app/styles/animations.js", "app/layout.jsx", "app/page.jsx", "public/index.js", "tailwind.config.js"],
+  "exclude": ["node_modules"]
+}

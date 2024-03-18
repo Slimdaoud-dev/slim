@@ -1,0 +1,32 @@
+[
+  {
+    "Doctor Name": "aaa",
+    "Address": "-------",
+    "Phone": "000000000",
+    "Qualification": "Full"
+  },
+  {
+    "Doctor Name": "bbb",
+    "Address": "-------",
+    "Phone": "000000000",
+    "Qualification": "cardio"
+  },
+  {
+    "Doctor Name": "ccc",
+    "Address": "-------",
+    "Phone": "000000000",
+    "Qualification": "cardio"
+  },
+  {
+    "Doctor Name": "ddd",
+    "Address": "-------",
+    "Phone": "000000000",
+    "Qualification": "cardio"
+  },
+  {
+    "Doctor Name": "eee",
+    "Address": "-------",
+    "Phone": "000000000",
+    "Qualification": "Full"
+  }
+]

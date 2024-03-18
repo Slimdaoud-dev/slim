@@ -1,0 +1,45 @@
+{
+  "name": "hoobank",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^2.8.2",
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.0",
+    "@nextui-org/react": "^2.2.10",
+    "@radix-ui/react-label": "^2.0.2",
+    "@react-md/icon": "^5.1.6",
+    "@tailus/themer": "^0.0.4",
+    "@tailus/themer-empty-state": "^0.0.1",
+    "apexcharts": "^3.47.0",
+    "class-variance-authority": "^0.7.0",
+    "crypto-js": "^4.2.0",
+    "ethers": "^5.7.2",
+    "framer-motion": "^10.18.0",
+    "js-cookie": "^3.0.5",
+    "next": "14.0.2",
+    "react": "^18",
+    "react-apexcharts": "^1.4.1",
+    "react-calendar": "^4.8.0",
+    "react-dom": "^18",
+    "react-icons": "^5.0.1",
+    "react-table": "^7.8.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.0.2",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0",
+    "typescript": "^5"
+  }
+}
